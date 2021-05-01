@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed ElSheikh</h1>
+<h1 align="center">Hiyaa 👋, I'm Ahmed ElSheikh</h1>
 <h3 align="center">A passionate AI engineer, pursuing my masters in Artificial Intelligence & Robotics in La Sapienza Universita di Roma, Rome, Italy.</h3>
 
 - 🔭 I’m currently working on NLP thesis, topic is WSD **Word Sense Disambiguation**
@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **aelsheikh13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gorXlgVZIcy8_ciDxnnYF5thTtNn0gPG/view?usp=sharing](https://drive.google.com/file/d/1gorXlgVZIcy8_ciDxnnYF5thTtNn0gPG/view?usp=sharing)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1gorXlgVZIcy8_ciDxnnYF5thTtNn0gPG/view?usp=sharing)
 
-- ⚡ Fun fact **I'm a Bachatero, poet**
+- ⚡ Fun fact **I'm a Bachatero, poet, amature cook, amature baker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
