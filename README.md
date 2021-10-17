@@ -1,5 +1,5 @@
 <h1 align="center">Hiyaa 👋, I'm Ahmed ElSheikh</h1>
-<h3 align="center">A passionate AI engineer, pursuing my masters in Artificial Intelligence & Robotics in La Sapienza Universita di Roma, Rome, Italy.</h3>
+<h3 align="center">NLP Engineer, pursuing my masters in Artificial Intelligence & Robotics in La Sapienza Universita di Roma, Rome, Italy -Graduating Jan 2022-.<br>Published a paper in EMNLP 2021</h3>
 
 - 🔭 I’m currently working on NLP thesis, topic is WSD **Word Sense Disambiguation**
 
