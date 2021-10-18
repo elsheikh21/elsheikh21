@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently using **Python, Numpy, Pandas, Elasticsearch, Matplotlib, Scikit-learn, PyTorch, PyTorch Lightning**
 
-- 👨‍💻 All of my projects are available at [elsheikh21.github.io/#work](elsheikh21.github.io/#work)
+- 👨‍💻 All of my projects are available at [elsheikh21.github.io/#portfolio](elsheikh21.github.io/#portfolio)
 
 - 📫 How to reach me **aelsheikh13@gmail.com**
 
