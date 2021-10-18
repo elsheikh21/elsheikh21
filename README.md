@@ -1,9 +1,9 @@
 <h1 align="center">Hiyaa 👋, I'm Ahmed ElSheikh</h1>
 <h3 align="center">NLP Engineer, pursuing my masters in Artificial Intelligence & Robotics in La Sapienza Universita di Roma, Rome, Italy -Graduating Jan 2022-.<br>Published a paper in EMNLP 2021</h3>
 
-- 🔭 I’m currently working on NLP thesis, topic is WSD **Word Sense Disambiguation**
+- 🔭 I published a paper in <strong>EMNLP2021</strong> outperforming current SOTA in WSD with 65% reduction in number of trainable parameters, Paper url will be added soon.
 
-- 🌱 I’m currently using **PyTorch, PyTorch Lightning**
+- 🌱 I’m currently using **Python, Numpy, Pandas, Elasticsearch, Matplotlib, Scikit-learn, PyTorch, PyTorch Lightning**
 
 - 👨‍💻 All of my projects are available at [elsheikh21.github.io/#work](elsheikh21.github.io/#work)
 
