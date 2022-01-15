@@ -1,5 +1,9 @@
 <h1 align="center">Hiyaa 👋, I'm Ahmed ElSheikh</h1>
-<h3 align="center">NLP Engineer, pursuing my masters in Artificial Intelligence & Robotics in La Sapienza Universita di Roma, Rome, Italy -Graduating Jan 2022-.<br>Published a paper in EMNLP 2021</h3>
+<div align="left">
+	<h3 align="center">:robot: Natural Language Processing Engineer</h3>
+	<h3 align="center">📝 Published a paper in EMNLP 2021</h3>
+	<h3 align="center">:robot: AI & Robotics MSc holder from Sapienza University of Rome</h3>
+</div>
 
 - 🔭 I published a paper in <strong>EMNLP2021</strong> outperforming current SOTA in WSD with 65% reduction in number of trainable parameters, Paper: <a href='https://aclanthology.org/2021.emnlp-main.715/'>"Integrating Personalized PageRank into Neural Word Sense Disambiguation
 						"</a>
@@ -10,7 +14,7 @@
 
 - 📫 How to reach me **aelsheikh13@gmail.com**
 
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1gorXlgVZIcy8_ciDxnnYF5thTtNn0gPG/view?usp=sharing)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1xfdJIRLJ6cEFlZYgFx5_PZYcoUwwMDys/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a Bachatero, poet, amature cook, amature baker**
 
