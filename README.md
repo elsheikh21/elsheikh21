@@ -1,6 +1,6 @@
 <h1 align="center">Hiyaa 👋, I'm Ahmed ElSheikh</h1>
 <div align="left">
-	<h3 align="center">:robot: NLP Engineer</h3>
+	<h3 align="center">:robot: CyberSecurity Analyst/ML Engineer</h3>
 <!-- 	<h3 align="center">📝 Published a paper in EMNLP 2021</h3> -->
 <!-- 	<h3 align="center">:robot: AI & Robotics MSc holder from Sapienza University of Rome</h3> -->
 </div>
