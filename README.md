@@ -9,7 +9,7 @@
 						"</a>
 - 📝 Artificial Intelligence and Robotics Masters holder from Sapienza University of Rome  
 
-- 🌱 I’m currently using **Python, Numpy, Pandas, Elasticsearch, Matplotlib, Scikit-learn, PyTorch, PyTorch Lightning**
+- 🌱 I’m currently using **[ML/DL Projects] Python, Scikit-learn, PyTorch && [Web Dev] React JS, CSS, HTML, Django-py, psql**
 
 - 👨‍💻 All of my projects are available at [my e-portfolio](https://elsheikh21.github.io/#portfolio)
 
